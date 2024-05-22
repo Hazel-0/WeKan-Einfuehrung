@@ -1,4 +1,4 @@
-# Kapitel 1: Was ist Kanban? (2/2)
+# Was ist Kanban? (2/2)
 
 **Quizfrage 1:** Was kann die Kanban-Methode im Studienalltag verbessern?
 

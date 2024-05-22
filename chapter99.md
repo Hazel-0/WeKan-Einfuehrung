@@ -1,4 +1,4 @@
-# Kapitel 7: Abschluss und Ressourcen
+# Abschluss und Ressourcen
 
 ![Graduation ceremony](https://upload.wikimedia.org/wikipedia/commons/1/1c/Figure_6._Graduation_by_Hippo_px.png "[U3167879](https://commons.wikimedia.org/wiki/User:U3167879), Figure 6. Graduation by Hippo px, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)")
 

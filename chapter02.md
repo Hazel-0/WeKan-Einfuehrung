@@ -1,4 +1,4 @@
-# Kapitel 1: Was ist Kanban? (1/2)
+# Was ist Kanban? (1/2)
 
 ![Zu sehen ist ein Beispiel WeKan Board auf dem ein Kanban erstellt wurde. Spalten heißten bspw. In Arbeit, um den Status der darin liegenden Aufgaben wiederzugeben. Die Spalten tragen die Namen To Do, In Arbeit, Störung, Wartet und Fertig.](/images/Wekan_Beispiel_kanban.jpg)
 

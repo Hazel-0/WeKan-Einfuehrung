@@ -1,4 +1,4 @@
-# Kapitel 2: Was bietet WeKan? (1/2)
+# Was bietet WeKan? (1/2)
 
 Bei WeKan handelt es handelt sich um eine Server-basierte Webanwendung, die frei von [dieser Seite](wekan.github.io/#install) heruntergeladen werden kann. (Achtung: Für die Installation und den Betrieb sind Administratorkenntnisse erforderlich.)
 
