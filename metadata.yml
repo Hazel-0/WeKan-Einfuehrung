@@ -1,21 +1,36 @@
----
-name: "My OER Course"
+'@context': https://schema.org/
+creativeWorkStatus: Draft
+type: LearningResource
+name: Wekan - Eine Einführung
+description: >-
+  In dieser Lektion werden wir uns zunächst kurz mit den Grundlagen von Kanban
+  als Projektmanagementmethode befassen. Anschließend lernen wir, wie diese
+  beispielhaft mit der Software WeKan umgesetzt werden kann. Dabei lernen wir
+  auch den grundlegenden Funktionsumfang von WeKan kennen.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
 creator:
-  - givenName: "Sina"
-    familyName: "Haselmann"
-  - givenName: "Marleen"
-    familyName: "Koberski"
-publisher:
-  givenName: "Sina"
-  familyName: "Haselmann"
+  - givenName: Sina
+    familyName: Haselmann
+    id: https://orcid.org/0000-0002-8897-8147
+    type: Person
+    affiliation:
+      name: Stiftung Universität Hildesheim
+      id: https://ror.org/02f9det96
+      type: Organization
+  - givenName: Marleen
+    familyName: Koberski
+    type: Person
+    affiliation:
+      name: Stiftung Universität Hildesheim
+      id: https://ror.org/02f9det96
+      type: Organization
 keywords:
-  - "Kanban"
-  - "WeKan"
-  - "Project Management"
-description: "Draft for a course on Kanban / WeKan for the University of Hildesheim"
-inLanguage: "en"
-version: 1.0
-license: "https://creativecommons.org/licenses/by/4.0/deed.en"
-thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+  - Kanban
+  - WeKan
+  - Projektmanagement
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/course
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
