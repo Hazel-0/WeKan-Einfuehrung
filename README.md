@@ -1,3 +1,5 @@
+copied from OER Template - this project is used as a LiaScript workflow test
+
 # Template for OER
 
 This is a template for open and freely licensed texts that delivers appealing, and depending on the template, multimedia results. It additionally automates a lot of laborious work during creation. This template can be used for courses or modules as well as for all sorts of texts, including student research papers or theses.
