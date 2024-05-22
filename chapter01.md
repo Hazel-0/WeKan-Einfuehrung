@@ -1,17 +1,9 @@
-# Pythagorean theorem
+# Willkommen
 
-## Representation
+![WeKan Logo](https://user-images.githubusercontent.com/126474697/223431584-e8cbace8-fe3b-40e2-bc02-38c6a12516f3.png)
 
-![Representation of the Pythagorean Theorem](https://upload.wikimedia.org/wikipedia/commons/d/d1/01-Rechtwinkliges_Dreieck-Pythagoras.svg)  
+**Willkommen zu unserer WeKan-Selbstlernlektion!**
 
-![Tree at the lake](https://upload.wikimedia.org/wikipedia/commons/c/c1/Regnitz-Baum-1012073.jpg)
+In dieser Lektion werden wir uns zunächst kurz mit den Grundlagen von Kanban als Projektmanagementmethode befassen. Anschließend lernen wir, wie diese beispielhaft mit der Software WeKan umgesetzt werden kann. Dabei lernen wir auch den grundlegenden Funktionsumfang von WeKan kennen.
 
-![Petri net](https://upload.wikimedia.org/wikipedia/commons/0/08/PetriNetzVentil.png)
-
-## The formula
-
-```math
-a^2 + b^2 = c^2
-```
-
-see [chapter 4](chapter04.md#assignment)
+**Klicken Sie nun mit dem Symbol > weiter zur ersten Lektion.**

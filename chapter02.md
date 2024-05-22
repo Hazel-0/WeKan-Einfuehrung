@@ -1,15 +1,5 @@
-# Example video (test)
+# Lektion 1: Was ist Kanban? (1/2)
 
-a) Placeholder with link to Youtube
+![Zu sehen ist ein Beispiel WeKan Board auf dem ein Kanban erstellt wurde. Spalten heißten bspw. In Arbeit, um den Status der darin liegenden Aufgaben wiederzugeben. Die Spalten tragen die Namen To Do, In Arbeit, Störung, Wartet und Fertig.](/images/Wekan_Beispiel_kanban.jpg)
 
-[![Entwicklungsumgebung mit Groovy/Git testen](https://img.youtube.com/vi/fbZOii_l7M4/maxresdefault.jpg)](https://youtu.be/fbZOii_l7M4)
-
-b) AV-Portal player embedded
-
-<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/40456" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-c) Youtube embedded
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen">
-</iframe>
+*Kanban* ist eine (agile) Methode, die darauf abzielt, den Fortschritt visuell darzustellen. Dabei werden Aufgaben als Karten auf einem Kanban-Board dargestellt und in Spalten organisiert, um den Status der Aufgaben zu kennzeichnen. Dies kann bei Studierenden auch für die Organisation von Studienprojekten, Lernaufgaben oder Prüfungsvorbereitungen genutzt werden. Dabei können die Boards auch von mehreren Nutzenden gleichzeitig gesehen und bearbeitet werden.

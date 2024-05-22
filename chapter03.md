@@ -1,7 +1,11 @@
-# H5P Test
+# Lektion 1: Was ist Kanban? (2/2)
 
-<iframe src="https://h5p.org/h5p/embed/617" width="545" height="337" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+**Quizfrage 1:** Was kann die Kanban-Methode im Studienalltag verbessern?
 
-...
-
-<iframe src="https://h5p.org/h5p/embed/62954" width="1090" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[( )] Die Visualisierung des Fortschritts von Lernaufgaben und Projekten.
+[( )] Die effiziente Zusammenarbeit mit Kommiliton*innen.
+[( )] Die Visualisierung des Fortschritts von Lernaufgaben und Projekten.
+[(X)] Alle oben genannten.
+**********************************
+Gut gemacht!
+**********************************
