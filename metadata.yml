@@ -1,21 +1,21 @@
 ---
 name: "My OER Course"
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
+  - givenName: "Sina"
+    familyName: "Haselmann"
+  - givenName: "Marleen"
+    familyName: "Koberski"
 publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  givenName: "Sina"
+  familyName: "Haselmann"
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
+  - "Kanban"
+  - "WeKan"
+  - "Project Management"
+description: "Draft for a course on Kanban / WeKan for the University of Hildesheim"
 inLanguage: "en"
 version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
+license: "https://creativecommons.org/licenses/by/4.0/deed.en"
 thumbnailUrl: http://placehold.it/100x100
 learningResourceType: "Course"
 creativeWorkStatus: "Draft" # Incomplete, Draft, Published
